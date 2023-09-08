@@ -32,3 +32,4 @@ const randMessage = () => {
 }
 
 randMessage()
+console.log('123')
